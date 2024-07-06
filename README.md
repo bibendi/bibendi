@@ -10,7 +10,7 @@ I believe in the power of open-source to drive innovation. Here are some of the 
 
 - **[dip](https://github.com/bibendi/dip)**: A tool to orchestrate Docker and Docker Compose-based projects.
 - **[schked](https://github.com/bibendi/schked)**: A scheduling engine.
-- **[sbmt-outbox](https://github.com/SberMarket-Tech/sbmt-outbox)**: Transactional outbox pattern implementation for Ruby, designed to keep your database and messaging system in sync without loss.
+- **[sbmt-outbox](https://github.com/Kuper-Tech/sbmt-outbox)**: Transactional outbox pattern implementation for Ruby, designed to keep your database and messaging system in sync without loss.
 - **[activerecord-postgres_enum](https://github.com/bibendi/activerecord-postgres_enum)**: Adds support for PostgreSQL enums in ActiveRecord.
 - **[feature_toggles](https://github.com/bibendi/feature_toggles)**: A simple feature toggle mechanism for Ruby.
 - **[graphql-connections](https://github.com/evilmartians/graphql-connections)**: Provides an ActiveRecord connection for GraphQL, making it easier to work with GraphQL and Rails.
