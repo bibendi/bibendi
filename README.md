@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Misha Merkushin!
 
-I’m a passionate software developer with a strong focus on Ruby on Rails, infrastructure, and dev tooling. Over the years, I've had the opportunity to work on various exciting projects, create popular open-source gems, and share my knowledge through technical articles and tutorials.
+I’m a passionate software developer with a strong focus on Ruby and Golang, infrastructure, and dev tooling. Over the years, I've had the opportunity to work on various exciting projects, create popular open-source software, and share my knowledge through technical articles and tutorials.
 
 ---
 
